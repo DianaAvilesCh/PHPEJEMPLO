@@ -1,1 +1,5 @@
 Coodigo de ejemplo
+Nivel 1 Posible 1 (usando DALL-E)
+Imagina un escape room con temática de mina de diamantes o gemas de otro planeta. La escena es vista desde una perspectiva frontal o una vista en perspectiva de tres puntos, de forma que quede en 2D. La habitación tiene paredes rocosas que brillan suavemente con incrustaciones de gemas y cristales coloridos, sugiriendo que están en un planeta extraterrestre. En el centro, hay una consola de control futurista con pantallas y botones, que es el principal punto de interacción para los jugadores. A lo largo de la habitación, hay varias herramientas de minería estilizadas y adecuadas para un entorno extraterrestre, como picos y detectores de gemas, pero dispuestas de manera ordenada para no abrumar la escena. La iluminación es tenue, con focos estratégicamente colocados que resaltan ciertas áreas de interés, como la consola de control. El suelo es de un material similar a la roca, con un camino claro hacia la consola central. No hay demasiados elementos para evitar que la escena se sienta abarrotada.
+
+Nivel 1 Posible 2 (usando DALL+)
